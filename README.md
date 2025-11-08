@@ -126,6 +126,8 @@ It enables teams to understand what drives revenue, monitor targets efficiently,
 <img width="1332" height="656" alt="Screenshot (213)" src="https://github.com/user-attachments/assets/be8e9425-fbf5-448a-91b2-cdd6b61f5245" />
 <img width="1331" height="654" alt="Screenshot (214)" src="https://github.com/user-attachments/assets/f3042313-2342-40f3-948e-e69131f80adb" />
 <img width="1331" height="661" alt="Screenshot (215)" src="https://github.com/user-attachments/assets/0c1d8696-4529-4a10-bc6c-0112e0a9beb3" />
+<img width="1916" height="1009" alt="Screenshot (216)" src="https://github.com/user-attachments/assets/04e014ea-ca10-40b0-b48a-36089c94fe25" />
+
 
 
 
